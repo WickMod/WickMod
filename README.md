@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy!
+
+I'm a game developer at **JollyWare** currently making [**Gnomad**](https://jollyware.studio), a hand-drawn, metroidvania, bouncing ball, gnomesploration game.
 
 <!--
 **WickMod/WickMod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
